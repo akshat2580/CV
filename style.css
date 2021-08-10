@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+}
+h3{
+    color: aqua;
+}
+body{
+    background-color: beige;
+
+}
+hr{
+    background-color: beige;
+    border-style: dotted;
+    height: 0px;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+
+}
